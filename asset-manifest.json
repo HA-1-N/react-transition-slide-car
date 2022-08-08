@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-transition-slide-car/static/css/main.7492e1eb.css",
+    "main.js": "/react-transition-slide-car/static/js/main.2f25a42d.js",
+    "index.html": "/react-transition-slide-car/index.html",
+    "main.7492e1eb.css.map": "/react-transition-slide-car/static/css/main.7492e1eb.css.map",
+    "main.2f25a42d.js.map": "/react-transition-slide-car/static/js/main.2f25a42d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7492e1eb.css",
+    "static/js/main.2f25a42d.js"
+  ]
+}
